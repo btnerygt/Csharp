@@ -1,0 +1,15 @@
+C:\Users\btner\Desktop\batineryigit.com\C#\not_ortalamasi\not_ortalamasi\bin\Debug\net6.0\not_ortalamasi.exe
+C:\Users\btner\Desktop\batineryigit.com\C#\not_ortalamasi\not_ortalamasi\bin\Debug\net6.0\not_ortalamasi.deps.json
+C:\Users\btner\Desktop\batineryigit.com\C#\not_ortalamasi\not_ortalamasi\bin\Debug\net6.0\not_ortalamasi.runtimeconfig.json
+C:\Users\btner\Desktop\batineryigit.com\C#\not_ortalamasi\not_ortalamasi\bin\Debug\net6.0\not_ortalamasi.dll
+C:\Users\btner\Desktop\batineryigit.com\C#\not_ortalamasi\not_ortalamasi\bin\Debug\net6.0\not_ortalamasi.pdb
+C:\Users\btner\Desktop\batineryigit.com\C#\not_ortalamasi\not_ortalamasi\obj\Debug\net6.0\not_ortalamasi.csproj.AssemblyReference.cache
+C:\Users\btner\Desktop\batineryigit.com\C#\not_ortalamasi\not_ortalamasi\obj\Debug\net6.0\not_ortalamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\btner\Desktop\batineryigit.com\C#\not_ortalamasi\not_ortalamasi\obj\Debug\net6.0\not_ortalamasi.AssemblyInfoInputs.cache
+C:\Users\btner\Desktop\batineryigit.com\C#\not_ortalamasi\not_ortalamasi\obj\Debug\net6.0\not_ortalamasi.AssemblyInfo.cs
+C:\Users\btner\Desktop\batineryigit.com\C#\not_ortalamasi\not_ortalamasi\obj\Debug\net6.0\not_ortalamasi.csproj.CoreCompileInputs.cache
+C:\Users\btner\Desktop\batineryigit.com\C#\not_ortalamasi\not_ortalamasi\obj\Debug\net6.0\not_ortalamasi.dll
+C:\Users\btner\Desktop\batineryigit.com\C#\not_ortalamasi\not_ortalamasi\obj\Debug\net6.0\refint\not_ortalamasi.dll
+C:\Users\btner\Desktop\batineryigit.com\C#\not_ortalamasi\not_ortalamasi\obj\Debug\net6.0\not_ortalamasi.pdb
+C:\Users\btner\Desktop\batineryigit.com\C#\not_ortalamasi\not_ortalamasi\obj\Debug\net6.0\not_ortalamasi.genruntimeconfig.cache
+C:\Users\btner\Desktop\batineryigit.com\C#\not_ortalamasi\not_ortalamasi\obj\Debug\net6.0\ref\not_ortalamasi.dll

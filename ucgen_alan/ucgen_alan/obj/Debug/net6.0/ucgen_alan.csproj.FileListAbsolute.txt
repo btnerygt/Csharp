@@ -1,0 +1,15 @@
+C:\Users\btner\Desktop\batineryigit.com\C#\ucgen_alan\ucgen_alan\bin\Debug\net6.0\ucgen_alan.exe
+C:\Users\btner\Desktop\batineryigit.com\C#\ucgen_alan\ucgen_alan\bin\Debug\net6.0\ucgen_alan.deps.json
+C:\Users\btner\Desktop\batineryigit.com\C#\ucgen_alan\ucgen_alan\bin\Debug\net6.0\ucgen_alan.runtimeconfig.json
+C:\Users\btner\Desktop\batineryigit.com\C#\ucgen_alan\ucgen_alan\bin\Debug\net6.0\ucgen_alan.dll
+C:\Users\btner\Desktop\batineryigit.com\C#\ucgen_alan\ucgen_alan\bin\Debug\net6.0\ucgen_alan.pdb
+C:\Users\btner\Desktop\batineryigit.com\C#\ucgen_alan\ucgen_alan\obj\Debug\net6.0\ucgen_alan.csproj.AssemblyReference.cache
+C:\Users\btner\Desktop\batineryigit.com\C#\ucgen_alan\ucgen_alan\obj\Debug\net6.0\ucgen_alan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\btner\Desktop\batineryigit.com\C#\ucgen_alan\ucgen_alan\obj\Debug\net6.0\ucgen_alan.AssemblyInfoInputs.cache
+C:\Users\btner\Desktop\batineryigit.com\C#\ucgen_alan\ucgen_alan\obj\Debug\net6.0\ucgen_alan.AssemblyInfo.cs
+C:\Users\btner\Desktop\batineryigit.com\C#\ucgen_alan\ucgen_alan\obj\Debug\net6.0\ucgen_alan.csproj.CoreCompileInputs.cache
+C:\Users\btner\Desktop\batineryigit.com\C#\ucgen_alan\ucgen_alan\obj\Debug\net6.0\ucgen_alan.dll
+C:\Users\btner\Desktop\batineryigit.com\C#\ucgen_alan\ucgen_alan\obj\Debug\net6.0\refint\ucgen_alan.dll
+C:\Users\btner\Desktop\batineryigit.com\C#\ucgen_alan\ucgen_alan\obj\Debug\net6.0\ucgen_alan.pdb
+C:\Users\btner\Desktop\batineryigit.com\C#\ucgen_alan\ucgen_alan\obj\Debug\net6.0\ucgen_alan.genruntimeconfig.cache
+C:\Users\btner\Desktop\batineryigit.com\C#\ucgen_alan\ucgen_alan\obj\Debug\net6.0\ref\ucgen_alan.dll

@@ -1,0 +1,15 @@
+C:\Users\btner\Desktop\batineryigit.com\C#\tek_cift_sayi\tek_cift_sayi\bin\Debug\net6.0\tek_cift_sayi.exe
+C:\Users\btner\Desktop\batineryigit.com\C#\tek_cift_sayi\tek_cift_sayi\bin\Debug\net6.0\tek_cift_sayi.deps.json
+C:\Users\btner\Desktop\batineryigit.com\C#\tek_cift_sayi\tek_cift_sayi\bin\Debug\net6.0\tek_cift_sayi.runtimeconfig.json
+C:\Users\btner\Desktop\batineryigit.com\C#\tek_cift_sayi\tek_cift_sayi\bin\Debug\net6.0\tek_cift_sayi.dll
+C:\Users\btner\Desktop\batineryigit.com\C#\tek_cift_sayi\tek_cift_sayi\bin\Debug\net6.0\tek_cift_sayi.pdb
+C:\Users\btner\Desktop\batineryigit.com\C#\tek_cift_sayi\tek_cift_sayi\obj\Debug\net6.0\tek_cift_sayi.csproj.AssemblyReference.cache
+C:\Users\btner\Desktop\batineryigit.com\C#\tek_cift_sayi\tek_cift_sayi\obj\Debug\net6.0\tek_cift_sayi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\btner\Desktop\batineryigit.com\C#\tek_cift_sayi\tek_cift_sayi\obj\Debug\net6.0\tek_cift_sayi.AssemblyInfoInputs.cache
+C:\Users\btner\Desktop\batineryigit.com\C#\tek_cift_sayi\tek_cift_sayi\obj\Debug\net6.0\tek_cift_sayi.AssemblyInfo.cs
+C:\Users\btner\Desktop\batineryigit.com\C#\tek_cift_sayi\tek_cift_sayi\obj\Debug\net6.0\tek_cift_sayi.csproj.CoreCompileInputs.cache
+C:\Users\btner\Desktop\batineryigit.com\C#\tek_cift_sayi\tek_cift_sayi\obj\Debug\net6.0\tek_cift_sayi.dll
+C:\Users\btner\Desktop\batineryigit.com\C#\tek_cift_sayi\tek_cift_sayi\obj\Debug\net6.0\refint\tek_cift_sayi.dll
+C:\Users\btner\Desktop\batineryigit.com\C#\tek_cift_sayi\tek_cift_sayi\obj\Debug\net6.0\tek_cift_sayi.pdb
+C:\Users\btner\Desktop\batineryigit.com\C#\tek_cift_sayi\tek_cift_sayi\obj\Debug\net6.0\tek_cift_sayi.genruntimeconfig.cache
+C:\Users\btner\Desktop\batineryigit.com\C#\tek_cift_sayi\tek_cift_sayi\obj\Debug\net6.0\ref\tek_cift_sayi.dll
