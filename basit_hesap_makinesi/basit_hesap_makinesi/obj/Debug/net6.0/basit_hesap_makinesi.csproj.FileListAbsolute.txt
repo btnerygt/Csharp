@@ -1,0 +1,15 @@
+C:\Users\btner\Desktop\batineryigit.com\C#\basit_hesap_makinesi\basit_hesap_makinesi\bin\Debug\net6.0\basit_hesap_makinesi.exe
+C:\Users\btner\Desktop\batineryigit.com\C#\basit_hesap_makinesi\basit_hesap_makinesi\bin\Debug\net6.0\basit_hesap_makinesi.deps.json
+C:\Users\btner\Desktop\batineryigit.com\C#\basit_hesap_makinesi\basit_hesap_makinesi\bin\Debug\net6.0\basit_hesap_makinesi.runtimeconfig.json
+C:\Users\btner\Desktop\batineryigit.com\C#\basit_hesap_makinesi\basit_hesap_makinesi\bin\Debug\net6.0\basit_hesap_makinesi.dll
+C:\Users\btner\Desktop\batineryigit.com\C#\basit_hesap_makinesi\basit_hesap_makinesi\bin\Debug\net6.0\basit_hesap_makinesi.pdb
+C:\Users\btner\Desktop\batineryigit.com\C#\basit_hesap_makinesi\basit_hesap_makinesi\obj\Debug\net6.0\basit_hesap_makinesi.csproj.AssemblyReference.cache
+C:\Users\btner\Desktop\batineryigit.com\C#\basit_hesap_makinesi\basit_hesap_makinesi\obj\Debug\net6.0\basit_hesap_makinesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\btner\Desktop\batineryigit.com\C#\basit_hesap_makinesi\basit_hesap_makinesi\obj\Debug\net6.0\basit_hesap_makinesi.AssemblyInfoInputs.cache
+C:\Users\btner\Desktop\batineryigit.com\C#\basit_hesap_makinesi\basit_hesap_makinesi\obj\Debug\net6.0\basit_hesap_makinesi.AssemblyInfo.cs
+C:\Users\btner\Desktop\batineryigit.com\C#\basit_hesap_makinesi\basit_hesap_makinesi\obj\Debug\net6.0\basit_hesap_makinesi.csproj.CoreCompileInputs.cache
+C:\Users\btner\Desktop\batineryigit.com\C#\basit_hesap_makinesi\basit_hesap_makinesi\obj\Debug\net6.0\basit_hesap_makinesi.dll
+C:\Users\btner\Desktop\batineryigit.com\C#\basit_hesap_makinesi\basit_hesap_makinesi\obj\Debug\net6.0\refint\basit_hesap_makinesi.dll
+C:\Users\btner\Desktop\batineryigit.com\C#\basit_hesap_makinesi\basit_hesap_makinesi\obj\Debug\net6.0\basit_hesap_makinesi.pdb
+C:\Users\btner\Desktop\batineryigit.com\C#\basit_hesap_makinesi\basit_hesap_makinesi\obj\Debug\net6.0\basit_hesap_makinesi.genruntimeconfig.cache
+C:\Users\btner\Desktop\batineryigit.com\C#\basit_hesap_makinesi\basit_hesap_makinesi\obj\Debug\net6.0\ref\basit_hesap_makinesi.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "basit_hesap_makinesi/1.0.0": {
+        "runtime": {
+          "basit_hesap_makinesi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "basit_hesap_makinesi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

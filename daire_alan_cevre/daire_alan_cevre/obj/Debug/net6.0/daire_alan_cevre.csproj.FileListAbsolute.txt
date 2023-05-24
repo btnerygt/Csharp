@@ -1,0 +1,15 @@
+C:\Users\btner\Desktop\batineryigit.com\C#\daire_alan_cevre\daire_alan_cevre\bin\Debug\net6.0\daire_alan_cevre.exe
+C:\Users\btner\Desktop\batineryigit.com\C#\daire_alan_cevre\daire_alan_cevre\bin\Debug\net6.0\daire_alan_cevre.deps.json
+C:\Users\btner\Desktop\batineryigit.com\C#\daire_alan_cevre\daire_alan_cevre\bin\Debug\net6.0\daire_alan_cevre.runtimeconfig.json
+C:\Users\btner\Desktop\batineryigit.com\C#\daire_alan_cevre\daire_alan_cevre\bin\Debug\net6.0\daire_alan_cevre.dll
+C:\Users\btner\Desktop\batineryigit.com\C#\daire_alan_cevre\daire_alan_cevre\bin\Debug\net6.0\daire_alan_cevre.pdb
+C:\Users\btner\Desktop\batineryigit.com\C#\daire_alan_cevre\daire_alan_cevre\obj\Debug\net6.0\daire_alan_cevre.csproj.AssemblyReference.cache
+C:\Users\btner\Desktop\batineryigit.com\C#\daire_alan_cevre\daire_alan_cevre\obj\Debug\net6.0\daire_alan_cevre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\btner\Desktop\batineryigit.com\C#\daire_alan_cevre\daire_alan_cevre\obj\Debug\net6.0\daire_alan_cevre.AssemblyInfoInputs.cache
+C:\Users\btner\Desktop\batineryigit.com\C#\daire_alan_cevre\daire_alan_cevre\obj\Debug\net6.0\daire_alan_cevre.AssemblyInfo.cs
+C:\Users\btner\Desktop\batineryigit.com\C#\daire_alan_cevre\daire_alan_cevre\obj\Debug\net6.0\daire_alan_cevre.csproj.CoreCompileInputs.cache
+C:\Users\btner\Desktop\batineryigit.com\C#\daire_alan_cevre\daire_alan_cevre\obj\Debug\net6.0\daire_alan_cevre.dll
+C:\Users\btner\Desktop\batineryigit.com\C#\daire_alan_cevre\daire_alan_cevre\obj\Debug\net6.0\refint\daire_alan_cevre.dll
+C:\Users\btner\Desktop\batineryigit.com\C#\daire_alan_cevre\daire_alan_cevre\obj\Debug\net6.0\daire_alan_cevre.pdb
+C:\Users\btner\Desktop\batineryigit.com\C#\daire_alan_cevre\daire_alan_cevre\obj\Debug\net6.0\daire_alan_cevre.genruntimeconfig.cache
+C:\Users\btner\Desktop\batineryigit.com\C#\daire_alan_cevre\daire_alan_cevre\obj\Debug\net6.0\ref\daire_alan_cevre.dll
